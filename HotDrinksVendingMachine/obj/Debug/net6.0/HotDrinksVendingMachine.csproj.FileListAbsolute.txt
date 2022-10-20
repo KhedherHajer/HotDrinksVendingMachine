@@ -1,0 +1,12 @@
+C:\Users\Hajer\source\repos\HotDrinksVendingMachine\HotDrinksVendingMachine\bin\Debug\net6.0\HotDrinksVendingMachine.deps.json
+C:\Users\Hajer\source\repos\HotDrinksVendingMachine\HotDrinksVendingMachine\bin\Debug\net6.0\HotDrinksVendingMachine.dll
+C:\Users\Hajer\source\repos\HotDrinksVendingMachine\HotDrinksVendingMachine\bin\Debug\net6.0\HotDrinksVendingMachine.pdb
+C:\Users\Hajer\source\repos\HotDrinksVendingMachine\HotDrinksVendingMachine\obj\Debug\net6.0\HotDrinksVendingMachine.csproj.AssemblyReference.cache
+C:\Users\Hajer\source\repos\HotDrinksVendingMachine\HotDrinksVendingMachine\obj\Debug\net6.0\HotDrinksVendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hajer\source\repos\HotDrinksVendingMachine\HotDrinksVendingMachine\obj\Debug\net6.0\HotDrinksVendingMachine.AssemblyInfoInputs.cache
+C:\Users\Hajer\source\repos\HotDrinksVendingMachine\HotDrinksVendingMachine\obj\Debug\net6.0\HotDrinksVendingMachine.AssemblyInfo.cs
+C:\Users\Hajer\source\repos\HotDrinksVendingMachine\HotDrinksVendingMachine\obj\Debug\net6.0\HotDrinksVendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\Hajer\source\repos\HotDrinksVendingMachine\HotDrinksVendingMachine\obj\Debug\net6.0\HotDrinksVendingMachine.dll
+C:\Users\Hajer\source\repos\HotDrinksVendingMachine\HotDrinksVendingMachine\obj\Debug\net6.0\refint\HotDrinksVendingMachine.dll
+C:\Users\Hajer\source\repos\HotDrinksVendingMachine\HotDrinksVendingMachine\obj\Debug\net6.0\HotDrinksVendingMachine.pdb
+C:\Users\Hajer\source\repos\HotDrinksVendingMachine\HotDrinksVendingMachine\obj\Debug\net6.0\ref\HotDrinksVendingMachine.dll

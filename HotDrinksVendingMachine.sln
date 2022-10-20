@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotDrinksVendingMachine", "HotDrinksVendingMachine\HotDrinksVendingMachine.csproj", "{728303CC-048F-41D7-BE1B-C8FEE7EE2CC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotDrinksVendingMachine.Tests", "HotDrinksVendingMachine.Tests\HotDrinksVendingMachine.Tests.csproj", "{C68F5974-192E-4842-8474-790122627DC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{728303CC-048F-41D7-BE1B-C8FEE7EE2CC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{728303CC-048F-41D7-BE1B-C8FEE7EE2CC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{728303CC-048F-41D7-BE1B-C8FEE7EE2CC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{728303CC-048F-41D7-BE1B-C8FEE7EE2CC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C68F5974-192E-4842-8474-790122627DC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C68F5974-192E-4842-8474-790122627DC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C68F5974-192E-4842-8474-790122627DC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C68F5974-192E-4842-8474-790122627DC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D06CD6F-120E-4D2F-AAC7-BE1C49EF5DA0}
+	EndGlobalSection
+EndGlobal
